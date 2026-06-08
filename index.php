@@ -158,7 +158,7 @@ require_once "include/update/gallery.php";
 					}
 					echo '<div class="column is-half">
 					<div class="box">
-						<div class="columns is-mobile">
+						<div class="columns is-mobile is-vcentered">
 							<div class="column is-narrow">
 								<figure class="image is-96x96">
 									<img src="' . $ourTeam[$x]["image"] . '" class="is-rounded" alt="Profile picture of ' . $ourTeam[$x]["name"] . '">
